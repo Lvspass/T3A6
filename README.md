@@ -20,4 +20,4 @@ ISR:
 #2 Diseño de la solucion
 ![](https://github.com/Lvspass/T3A6/blob/main/be682dd8-603d-4b19-bff3-4b5db36f9dcd.jpg)
 #3 Solucion del problema 
-![](
+![](https://github.com/Lvspass/T3A6/blob/main/Industria.zip)
